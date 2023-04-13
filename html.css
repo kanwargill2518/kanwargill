@@ -1,0 +1,33 @@
+body {
+ background-image: url("img.jpg");
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+#ab {
+ color:yellow;
+ text-size:30px;
+ text-align:center;
+ border-style: dashed;
+ border-radius:5px;
+ margin: 25px 50px 65px 100px;
+
+}
+
+#ac {
+ color:red;
+ text-size:30px;
+ text-align:center;
+ font-family:serif;
+
+}
+
+#ad {
+ color:blue;
+ text-align:center;
+ text-size:30px;
+ font-family: , monospace;
+ 
+
+}
